@@ -2,22 +2,22 @@
 layout: page-fullwidth
 title: "About"
 show_meta: false
-#teaser: Currently I am a Postdoctoral Fellow in Titus Brown's <a href="http://ivory.idyll.org/lab/">Lab for Data Intensive Biology</a> at UC Davis. I hold a PhD in Biological Oceanography from the Massachusetts Institute of Technology (<a href="http://www.mit.edu/">MIT</a>) & Woods Hole Oceanographic Institution (<a href="http://www.whoi.edu/">WHOI</a>) <a href="https://mit.whoi.edu/">Joint Program</a> .
+teaser: I am a physical oceanographer working as a postdoc in the <a href="www.mod.ucsd.edu">Multiscale Ocean Dynamics group (MOD)</a> at Scripps Institution of Oceanography. I received my PhD in 2017 from Rutgers University in the Department of Marine and Coastal Science.</a> .
 permalink: "/about/"
 header:
-    image_fullwidth: headers/scripps.jpg
+  image_fullwidth: headers/scripps.jpg
 ---
 
 <div class="row">
   <div class="medium-7 columns">
 
-I am a physical oceanographer working as a postdoc in the <a href="www.mod.ucsd.edu">Multiscale Ocean Dynamics group (MOD)</a> at Scripps Institution of Oceanography. I received my PhD in 2017 from Rutgers University in the Department of Marine and Coastal Science.
+
   </div>
 
-{{page.image.title}}
+
 
   <div class="medium-5 columns">
-    <img src="headshot.jpg" alt="">
+    <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/headshot.jpg?raw=true" alt="">
   </div>
 
 </div>
