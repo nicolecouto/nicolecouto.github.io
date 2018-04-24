@@ -1,4 +1,17 @@
 ---
+title: "A website that doesn't exit"
+layout: redirect
+sitemap: false
+permalink: /cv/
+redirect_to:  "https://nicolecouto.github.io/assets/cv/CoutoCV_180107.pdf"
+---
+This is just a page to demonstrate the `redirect`-layout, programmend by [Kanishk](http://codingtips.kanishkkunal.in/about/).
+
+
+
+
+
+<!-- ---
 layout: page-fullwidth
 permalink: /cv/
 header:
@@ -16,4 +29,4 @@ download the PDF.</a>
     download the PDF file.</a></p>
 </object>
 
-Redirect = https://nicolecouto.github.io/assets/cv/CoutoCV_180107.pdf
+Redirect = https://nicolecouto.github.io/assets/cv/CoutoCV_180107.pdf -->
