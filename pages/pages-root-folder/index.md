@@ -6,7 +6,7 @@
 #
 layout: page-fullwidth
 header:
-  image_fullwidth: headers/Palmer_from_TheWorld.jpg
+  image_fullwidth: "headers/gould.jpg"
 #widget1:
 #  title: "Test 1"
 #  url: 'http://phlow.github.io/feeling-responsive/blog/'
