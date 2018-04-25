@@ -20,7 +20,7 @@ header:
     </div>
 <div class="row">
   <div class="small-6 columns">
-      <img src="http://placehold.it/470x264/6b6351/e1dcd7&amp">
+      <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/bruiser_christmas.jpg?raw=true">
   </div>
   <div class="small-6 columns">
     While I consider myself a physical oceanographer, I spent a quite bit of time at Palmer pretending to be a biologist. Oscar is in charge of the phytoplankton component of the program which includes a long time series of biological sampling.
@@ -41,7 +41,7 @@ header:
 
 <div class="row">
   <div class="large-6 columns">
-      <img src="http://placehold.it/470x264/6b6351/e1dcd7&amp">
+      <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/bruiser_christmas.jpg?raw=true">
   </div>
   <div class="large-6 columns">
        While I consider myself a physical oceanographer, I spent a quite bit of time at Palmer pretending to be a biologist. Oscar is in charge of the phytoplankton component of the program which includes a long time series of biological sampling.
