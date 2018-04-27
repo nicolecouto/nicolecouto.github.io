@@ -1,5 +1,4 @@
 ---
-title: "CV"
 layout: page-fullwidth
 permalink: /cv/
 header:
