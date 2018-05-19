@@ -10,12 +10,12 @@ permalink: "/projects/"
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_stilwandel.jpg" alt="">
+        <img src="webdesign_screenshot_stilwandel.jpg" alt="">
         <p><a href="http://nicolecouto.github.io/projects/palmer_lter">Palmer LTER</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_tarnkappe.jpg" alt="">
+        <img src="webdesign_screenshot_tarnkappe.jpg" alt="">
         <p><a href="http://nicolecouto.github.io/projects/subsurface_eddies">Subsurface Eddies</a></p>
     </div><!-- / .medium-4.columns -->
 
