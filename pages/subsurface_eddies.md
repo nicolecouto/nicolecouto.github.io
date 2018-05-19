@@ -7,7 +7,7 @@ categories:
     - projects
 permalink: /projects/subsurface_eddies/
 header:
-    image_fullwidth: "headers/Palmer_from_TheWorld.jpg"
+    image_fullwidth: "headers/glider_in_antarctica.jpg"
 ---
 
 <!-- DESCRIPTION AND ACC FIGURE -->
