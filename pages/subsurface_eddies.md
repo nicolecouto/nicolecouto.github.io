@@ -21,7 +21,7 @@ header:
     In order for the heat to be transported from the swiftly flowing ACC to the shelf, water must somehow be diverted onto it. At least some of this transport is accomplished via subsurface eddies. Instabilities occur in the flow in places where the current encounters a sharp change in bathymetry, like over the mouth of a subsurface canyon. This can cause deep eddies to spin off the main current like whirls over the stones in a creek.
   </div>
   <div class="large-4 columns">
-      <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/acc.png?raw=true">
+      <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/acc.jpg?raw=true">
 
   </div>
 </div>
@@ -29,7 +29,7 @@ header:
 
 <div class="row">
   <div class="large-8 columns">
-    <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/acc.png?raw=true">
+    <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/gliderThroughEddies.png?raw=true">
   </div>
   <div class="large-4 columns">
       At about 10 km wide, these eddies are relatively small compared to typical hydrographic sampling resolution. Ocean gliders, which move slowly from the surface to the ocean floor and back can make multiple passes through a single eddy as they “fly” through the water. Over the course of four deployments during austral summers 2010-11, 2011-12, and 2012-13, Rutgers gliders covered a distance of over 5,000 km on the shelf and flew through several of these features. The eddies were most frequently found within or along the edges of the two major cross-shelf canyons in the region.
@@ -47,7 +47,7 @@ header:
 <!-- PUBLICATIONS  -->
 <div class="row">
   <div class="large-2 columns">    
-      <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/ucdw_paper_fig.jpg?raw=true">
+      <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/ucdw_paper_fig.png?raw=true">
   </div>
   <div class="large-10 columns">
 
