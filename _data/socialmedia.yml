@@ -3,6 +3,11 @@
   class: icon-github
   title: Code und mehr...
 
+- name: Google Scholar
+  url: https://scholar.google.com/citations?user=YiYByx0AAAAJ&hl=en
+  class: icon-googleplus
+  title: "Google Scholar"
+
 #- name: YouTube
 #  url: http://www.youtube.com/PhlowMedia
 #  class: icon-youtube
