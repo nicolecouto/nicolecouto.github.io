@@ -10,12 +10,12 @@ permalink: "/projects/"
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/PalmerLTERlogo.jpg?raw=true" alt="">
+        <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/PalmerLTERlogo.png?raw=true" alt="">
         <p><a href="http://nicolecouto.github.io/projects/palmer_lter">Palmer LTER</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/gliderThroughEddies.jpg?raw=true" alt="">
+        <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/gliderThroughEddies.png?raw=true" alt="">
         <p><a href="http://nicolecouto.github.io/projects/subsurface_eddies">Subsurface Eddies</a></p>
     </div><!-- / .medium-4.columns -->
 
