@@ -7,7 +7,7 @@ categories:
     - projects
 permalink: /projects/subsurface_eddies/
 header:
-    image_fullwidth: "headers/glider_in_antarctica.jpg"
+    image_fullwidth: "headers/ru06.jpg"
 ---
 
 <!-- DESCRIPTION AND ACC FIGURE -->

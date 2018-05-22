@@ -10,7 +10,7 @@ permalink: "/projects/"
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/headers/glider_in_antarctica.jpg?raw=true" alt="">
+        <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/headers/ru06.jpg?raw=true" alt="">
         <p><a href="http://nicolecouto.github.io/projects/palmer_lter">Palmer LTER</a></p>
     </div><!-- /.medium-4.columns -->
 
