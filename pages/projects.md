@@ -28,7 +28,7 @@ permalink: "/projects/"
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_stilwandel.jpg" alt="">
-        <p><a href="http://nicolecouto.github.io/projects/bering_strait_turbulence">Bering Srait Turbulence</a></p>
+        <p><a href="http://nicolecouto.github.io/projects/bering_strait_turbulence">Bering Strait Turbulence</a></p>
     </div><!-- /.medium-4.columns -->
 
 
