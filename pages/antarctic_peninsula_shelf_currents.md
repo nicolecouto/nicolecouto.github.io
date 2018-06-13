@@ -7,7 +7,7 @@ categories:
     - projects
 permalink: /projects/antarctic_peninsula_shelf_currents/
 header:
-    image_fullwidth: "headers/Palmer_from_TheWorld.jpg"
+    image_fullwidth: "headers/codar"
 ---
 
 
