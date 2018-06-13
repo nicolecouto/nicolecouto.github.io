@@ -7,7 +7,7 @@ categories:
     - projects
 permalink: /projects/bering_strait_turbulence/
 header:
-    image_fullwidth: "headers/Palmer_from_TheWorld.jpg"
+    image_fullwidth: "headers/sikuliaq.jpg"
 ---
 
 
