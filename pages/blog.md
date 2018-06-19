@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title: "Blog"
+title: "Research Blog"
 show_meta: false
-permalink: "/blog/"
+permalink: "/blog/research/"
 header:
   image_fullwidth: headers/scripps.jpg
 ---
