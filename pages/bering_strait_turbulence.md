@@ -17,7 +17,7 @@ header:
   <div class="large-2 columns">    
       <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/grc_oceanMixing_thumb.jpg?raw=true">
   </div>
-  <div class="large-10webs columns">
+  <div class="large-10 columns">
   <a href="/assets/posters/grc_oceanMixing.pdf">Gordon Research Conference on Ocean Mixing, June 2018.</a> Andover, NH
   </div>
 </div>

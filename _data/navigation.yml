@@ -28,9 +28,9 @@
   side: right
   dropdown:
   - title: "Research blog"
-    url: "/research/"
-  - title: "Outreach"
-    url: "/outreach/"
+    url: "/blog/research/"
+  - title: "oceanbites.org"
+    url: "/blog/oceanbites/"
 
 #- title: "Search"
 #  url: "/search/"
