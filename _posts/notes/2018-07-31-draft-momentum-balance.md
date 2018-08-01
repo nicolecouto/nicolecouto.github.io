@@ -5,7 +5,7 @@ title:  "Momentum balance"
 teaser: ""
 breadcrumb: true
 tags:
-    - post format
+    - notes format
 categories:
     - notes
 ---
