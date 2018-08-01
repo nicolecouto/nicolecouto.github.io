@@ -1,17 +1,14 @@
 ---
 layout: page-fullwidth
-subheadline:  "Let's start a blog, shall we?"
+subheadline:  "31 July 2018"
 title:  "Momentum balance"
-teaser: "A glimpse into my work flow"
+teaser: ""
 breadcrumb: true
 tags:
     - post format
 categories:
     - notes
 ---
-
-
-
 # Momentum balance in Bering Strait
 ### July 26-30, 2018
 
