@@ -2,10 +2,10 @@
 layout: page-fullwidth
 subheadline:  "31 July 2018"
 title:  "Momentum balance"
-teaser: ""
+teaser: "Recalculate Tau-b from epsilon within bottom boundary layer"
 breadcrumb: true
 tags:
-    - notes format
+    - post format
 categories:
     - notes
 ---

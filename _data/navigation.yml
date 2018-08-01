@@ -26,11 +26,11 @@
 - title: Blog
   url: "/blog/"
   side: right
-  dropdown:
-  - title: "Research blog"
-    url: "/blog/research/"
-  - title: "oceanbites.org"
-    url: "/blog/oceanbites/"
+#  dropdown:
+#  - title: "Research blog"
+#    url: "/research/"
+#  - title: "Outreach"
+#    url: "/outreach/"
 
 #- title: "Search"
 #  url: "/search/"

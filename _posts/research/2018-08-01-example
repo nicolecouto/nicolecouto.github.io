@@ -1,0 +1,13 @@
+---
+layout: page-fullwidth
+subheadline:  "1 August 2018"
+title:  "Example"
+teaser: ""
+breadcrumb: true
+tags:
+    - post format
+categories:
+    - research
+---
+
+This is an example post.
