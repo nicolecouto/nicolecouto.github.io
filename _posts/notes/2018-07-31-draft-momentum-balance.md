@@ -7,7 +7,7 @@ breadcrumb: true
 tags:
     - post format
 categories:
-    - research
+    - notes
 ---
 
 
