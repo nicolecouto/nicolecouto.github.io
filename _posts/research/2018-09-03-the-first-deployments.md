@@ -14,8 +14,8 @@ We did science today!
 
 En route to deploy Tom Peacock's PIES in the morning, the University of Washington team deployed a WaveGlider on the shelf. It will follow a small rectangular pattern while we head to the shelf break to deploy the PIES and do a ~24 hour survey of the area to find a good place to use our full arsenal of oceanographic equipment. In the meantime, it will send updates every 30 minutes about what it's seeing. It measures waves, the temperature and salinity of the water, air temperature, and wind speed, which will all be useful for picking out a good spot.
 
-<img src="/assets/img/2018_09_03_DSC_0075.jpg" width="400">
-<img src="/assets/img/2018_09_03_DSC_0078.jpg" width="400">
+<img src="/assets/img/2018_09_03_DSC_0075.JPG" width="400">
+<img src="/assets/img/2018_09_03_DSC_0078.JPG" width="400">
 
 Our group also did a quick test of the MMP on the fast CTD winch. We found that there's a lot of noise in the signal that's really drowning out the data, so the engineers immediately got to work diagnosing the problem. The leading theory is that one of the cables that runs from the lab and out along the deck to the winch is interfering with the other cables and messing with what should be a clean signal. A simple fix would be to separate the cables. Hopefully that does the trick!
 
