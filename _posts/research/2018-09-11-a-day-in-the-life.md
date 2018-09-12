@@ -24,7 +24,7 @@ Our location is changing, but the rhythm of life in the lab will continue. Most 
 
 6:00 am - 2:00 pm - Relieve the previous watch. I'll either go outside to operate the FastCTD winch with one of my watchmates or stay inside watching the data stream in on the computer and communicating with those on deck over the radio. For the next 8 hours we rotate through who's on deck and who's inside, making sure that no one stays out in the cold for too long and everyone has a chance to cycle through the galley for meals.
 
-<img src="/assets/img/2018_09_11_DSC_0108.jpg" width="600">
+<img src="/assets/img/2018_09_11_DSC_0108.JPG" width="600">
 
 During this time, we're also in communication with the bridge, pausing our profiling when the ship makes a turn to a new survey line, or when we swap instruments.
 
@@ -39,7 +39,6 @@ During this time, we're also in communication with the bridge, pausing our profi
 6:30 pm - Science meeting. I really love this nightly assembly of the entire science party. Someone gives a short talk about their research or presents some of the data we've collected on this trip and that leads into a discussion which segues at some point into the plan for tomorrow. The three watches are awake at different times of the day, so this is the time we have to all get same page about what's coming next. After the meeting, I spend some more time looking at data and writing until I get tired.
 
 <img src="/assets/img/2018_09_11_IMG_6916.jpg" width="600">
-
 9:00 pm - Bedtime. Rest up to do it all again tomorrow.
 
 .
