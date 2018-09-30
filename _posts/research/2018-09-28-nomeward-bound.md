@@ -17,3 +17,5 @@ The last 24 hours have been spent packing up the lab, moving boxes into our ship
 We're due to pass through Bering Strait tomorrow morning and be dockside in Nome by the following morning. It's been a wonderful trip, full of exciting science and beautiful sights.
 
 <img src="/assets/img/2018_09_28_DSC_0080.png" width="700">
+
+<img src="/assets/img/2018_09_28_SODA.jpg" width="700">
