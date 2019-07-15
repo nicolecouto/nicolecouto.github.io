@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "Research"
-subheadline: "A glimpse into my work flow"
+subheadline: ""
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/research/"

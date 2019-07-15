@@ -7,11 +7,11 @@
 layout: page-fullwidth
 header:
   image_fullwidth: "headers/gould.jpg"
-#widget1:
-#  title: "Test 1"
-#  url: 'http://phlow.github.io/feeling-responsive/blog/'
-#  image: headers/Palmer_from_TheWorld.jpg
-#  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+widget1:
+  title: "SODA Cruise Blog"
+  url: 'https://nicolecouto.github.io/blog/'
+  image: widgets/2018_09_01_IMG_6873.jpg.jpg
+  text: 'I spent the month of September 2018 onboard the R/V *Sikuliaq* in the Arctic Ocean, north of Alaska, working with a team of physical oceanographers on a project called **SODA** : Stratified Ocean Dynamics of the Arctic. Read about the science and life at sea here.'
 #widget2:
 #  title: "Test 2"
 #  url: 'http://phlow.github.io/feeling-responsive/info/'
