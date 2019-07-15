@@ -10,7 +10,7 @@ header:
 widget1:
   title: "SODA Cruise Blog"
   url: 'https://nicolecouto.github.io/blog/'
-  image: widgets/2018_09_01_IMG_6873.jpg.jpg
+  image: widgets/2018_09_01_IMG_6873.jpg
   text: 'I spent the month of September 2018 onboard the R/V *Sikuliaq* in the Arctic Ocean, north of Alaska, working with a team of physical oceanographers on a project called **SODA** : Stratified Ocean Dynamics of the Arctic. Read about the science and life at sea here.'
 #widget2:
 #  title: "Test 2"
