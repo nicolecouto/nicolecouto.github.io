@@ -9,7 +9,7 @@ header:
   image_fullwidth: "headers/gould.jpg"
 widget1:
     title: "About"
-    url: ''
+    url: 'https://nicolecouto.github.io/projects/'
     image: widgets/alaska_headshot.jpg
     text: 'I am a physical oceanographer working as a postdoc in the <a href="www.mod.ucsd.edu">Multiscale Ocean Dynamics group (MOD)</a> at Scripps Institution of Oceanography. I received my PhD in 2017 from <a href="https://marine.rutgers.edu/main/">Rutgers University in the Department of Marine and Coastal Science.</a> '
 widget2:
