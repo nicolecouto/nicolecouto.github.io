@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "About"
 show_meta: false
-teaser: I am a physical oceanographer working as a postdoc in the <a href="www.mod.ucsd.edu">Multiscale Ocean Dynamics group (MOD)</a> at Scripps Institution of Oceanography. I received my PhD in 2017 from Rutgers University in the Department of Marine and Coastal Science.</a> 
+teaser: I am a physical oceanographer working as a postdoc in the <a href="www.mod.ucsd.edu">Multiscale Ocean Dynamics group (MOD)</a> at Scripps Institution of Oceanography. I received my PhD in 2017 from Rutgers University in the Department of Marine and Coastal Science.</a>
 permalink: "/about/"
 header:
   image_fullwidth: headers/scripps.jpg
@@ -16,9 +16,9 @@ header:
 
 
 
-  <div class="medium-5 columns">
+  <!--<div class="medium-5 columns">
     <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/headshot.jpg?raw=true" alt="">
-  </div>
+  </div> -->
 
 </div>
 
