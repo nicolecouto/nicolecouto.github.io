@@ -8,10 +8,15 @@ layout: frontpage
 header:
   image_fullwidth: "headers/gould.jpg"
 widget1:
+    title: "About"
+    url: ''
+    image: widgets/alaska_headshot.jpg
+    text: 'I am a physical oceanographer working as a postdoc in the <a href="www.mod.ucsd.edu">Multiscale Ocean Dynamics group (MOD)</a> at Scripps Institution of Oceanography. I received my PhD in 2017 from <a href="https://marine.rutgers.edu/main/">Rutgers University in the Department of Marine and Coastal Science.</a> '
+widget2:
   title: "SODA Cruise Blog"
   url: 'https://nicolecouto.github.io/blog/'
   image: widgets/2018_09_01_IMG_6873.jpg
-  text: 'I spent the month of September 2018 onboard the R/V *Sikuliaq* in the Arctic Ocean, north of Alaska, working with a team of physical oceanographers on a project called **SODA** : Stratified Ocean Dynamics of the Arctic. Read about the science and life at sea here.'
+  text: 'I spent the month of September 2018 onboard the R/V <it>Sikuliaq</it> in the Arctic Ocean, north of Alaska, working with a team of physical oceanographers on a project called <em>SODA</em>  : Stratified Ocean Dynamics of the Arctic. Read about the science and life at sea here.'
 #widget2:
 #  title: "Test 2"
 #  url: 'http://phlow.github.io/feeling-responsive/info/'
