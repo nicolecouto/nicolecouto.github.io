@@ -16,10 +16,10 @@ The Arctic Ocean is experiencing fast and profound change as a result of warming
 <!-- PUBLICATIONS -->
 <div class="row">
   <div class="large-2 columns">    
-      <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/grc_oceanMixing_thumb.jpg?raw=true">
+      <img src="">
   </div>
   <div class="large-10webs columns">
-  <a href=" ">In review at Journal of Physical Oceanography
+  <a href=" ">Couto, N., M. Alford, J. MacKinnon, J. Mickett, Turbulence measurements in Bering Strait (In review at Journal of Physical Oceanography)</a>
   </div>
 </div>
 
