@@ -6,6 +6,8 @@ teaser: ""
 breadcrumb: true
 tags:
     - post format
+image:
+  thumb:  project_squares/PalmerLTERlogo.png
 categories:
     - research
 ---
