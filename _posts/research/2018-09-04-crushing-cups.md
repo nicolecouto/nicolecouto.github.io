@@ -16,5 +16,5 @@ On one of our 2000 m CTD casts, we tied a mesh bag filled with the cups to the C
 
 I, unable to boast any real artistic talent, appreciate how forgiving a medium soon-to-be-crushed styrofoam cups are. Mistakes are shrunk beyond noticeability and what's left is just plain cute.
 
-<img src="/assets/img/2018_09_04_IMG_6902.JPG" width="400">
-<img src="/assets/img/2018_09_04_IMG_6914.JPG" width="400">
+<img src="/assets/img/2018_09_04_IMG_6902.jpg" width="400">
+<img src="/assets/img/2018_09_04_IMG_6914.jpg" width="400">
