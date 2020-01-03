@@ -7,7 +7,7 @@ breadcrumb: true
 tags:
     - post format
 image:
-  thumb:  project_squares/PalmerLTERlogo.png
+  thumb: 
 categories:
     - research
 ---
