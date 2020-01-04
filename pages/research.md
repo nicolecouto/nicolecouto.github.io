@@ -27,7 +27,7 @@ permalink: "/research/"
   </div>
   <div class="span10">
   <p><a href="{{ post.url }}"><h3>{{ post.title }}</h3></a></p>
-  <p>{ post.subheader }</p>
+  <p>{ post.subheadline }</p>
 	<p>{{ post.content | strip_html | truncatewords: 40 }}
 	</p>
   </div>
