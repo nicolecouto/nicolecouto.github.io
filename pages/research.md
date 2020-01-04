@@ -25,7 +25,7 @@ permalink: "/research/"
 	<img src="/assets/img/nature.png" align="center" width="150"/>
 	{% endif %}
   </div>
-  <div class="span10">
+  <div class="span8">
   <p><a href="{{ post.url }}"><h3>{{ post.title }}</h3></a></p>
   <p>{{ post.subheadline }}</p>
 	<p>{{ post.content | strip_html | truncatewords: 40 }}
