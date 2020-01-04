@@ -20,13 +20,14 @@ permalink: "/research/"
 <div class="row">
   <div class="span2">
     {% if post.thumbnail %}
-	<img src="{{ post.thumbnail }}" align="center" width="100" />
+	<img src="{{ post.thumbnail }}" align="center" width="150" />
 	{% else %}
-	<img src="/assets/img/nature.png" align="center" width="100"/>
+	<img src="/assets/img/nature.png" align="center" width="150"/>
 	{% endif %}
   </div>
   <div class="span10">
-    <p><a href="{{ post.subheadline }}{{ post.url }}"><h3>{{ post.title }}</h3></a></p>
+  <p><a href="{{ BASE_PATH }}{{ post.url }}"><h3>{{ post.title }}</h3></a></p>
+  <p>{ post.subheader }</p>
 	<p>{{ post.content | strip_html | truncatewords: 40 }}
 	</p>
   </div>
