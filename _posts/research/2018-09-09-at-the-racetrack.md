@@ -8,6 +8,7 @@ tags:
     - post format
 categories:
     - research
+thumbnail: /images/blog_thumbnails/2018_09_09_MMP_tn.jpg
 ---
 
 During the past two days, we've continued profiling with our FastCTD winch, but we've switched to using a different instrument, the MMP. MMP stands for Modular Microstructure Profilers. It's the tool we use to measure turbulent mixing in the water. It can carry a few different types of instruments, but the most important for mixing are the shear probes. These probes convert small deflections caused by velocity shear in the water to a measure of turbulence.

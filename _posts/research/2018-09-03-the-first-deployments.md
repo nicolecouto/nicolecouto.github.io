@@ -8,6 +8,7 @@ tags:
     - post format
 categories:
     - research
+thumbnail: /images/blog_thumbnails/2018_09_03_DSC_0078_tn.jpg
 ---
 
 We did science today!

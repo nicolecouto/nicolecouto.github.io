@@ -8,6 +8,7 @@ tags:
     - post format
 categories:
     - research
+thumbnail: /images/blog_thumbnails/2018_09_11_DSC_0108 _tn.jpg
 ---
 
 We've just completed the first module of our cruise plan, collecting as much data as we could at the shelf break in the hopes of learning something about exactly how Pacific water enters the Arctic Ocean. Tonight we're heading east toward an area of remnant sea ice to begin our second module. Our focus now will be on understanding how the presence of sea ice affects waves at the surface and turbulence in the water column below.

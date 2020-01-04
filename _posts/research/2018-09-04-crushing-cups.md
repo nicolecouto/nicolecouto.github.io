@@ -8,7 +8,7 @@ tags:
     - post format
 categories:
     - research
-thumbnail: /assets/img/2018_09_04_IMG_6914.jpg
+thumbnail: /images/blog_thumbnails/2018_09_04_IMG_6914_tn.jpg
 ---
 
 Today we completed perhaps the funnest of the deployments we'll do on this cruise - the Styrocast. Preparation is simple: decorate a Styrofoam cup with a Sharpie. Execution is even simpler: let the ocean do its work.

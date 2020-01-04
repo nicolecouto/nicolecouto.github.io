@@ -8,6 +8,7 @@ tags:
     - post format
 categories:
     - research
+thumbnail: /images/blog_thumbnails/2018_09_18_day1_tn.jpg
 ---
 
 Our sampling strategy on the Sikuliaq this month has been adaptive, meaning we did't come out here with an exact plan of where and when we want to be at specific locations. We wanted to sample interesting features at the shelf break and near the ice edge. One of the most useful tools we have to find those interesting features is satellite imagery, especially the images that come from Synthetic Aperture Radar.

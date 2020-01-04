@@ -8,6 +8,7 @@ tags:
     - post format
 categories:
     - research
+thumbnail: /images/blog_thumbnails/2018_09_24_warm_blob_pass_1_and_2_tn.jpg
 ---
 
 We're nearing the end of our Arctic research cruise. The ship is due back in port in Nome on the morning of September 30th, so accounting for the few days of transit time back across the Chukchi Shelf and through Bering Strait, that leaves us only a few days to continue sampling.

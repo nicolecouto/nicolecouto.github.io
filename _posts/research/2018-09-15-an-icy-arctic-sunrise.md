@@ -8,6 +8,7 @@ tags:
     - post format
 categories:
     - research
+thumbnail: /images/blog_thumbnails/2018_09_15_DSC_0112_tn.jpg
 ---
 
 The skies finally cleared today. Blues and oranges and fluffy whites replaced the usual shades of gray. But with the wind, the morning was bitter cold. It was a four pants day for me: base layer, Carhartts, bibs, Mustang suit. Neck gaiter pulled up to my ears and my puffy jacket hood cinched tight around my knit hat. You can't tell, but I'm smiling underneath all those layers. It really was a spectacular sunrise over an ocean littered with living room sized chunks of sea ice.

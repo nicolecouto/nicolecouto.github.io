@@ -8,6 +8,7 @@ tags:
     - post format
 categories:
     - research
+thumbnail: /images/blog_thumbnails/2018_09_02_IMG_6880_tn.jpg
 ---
 
 We're officially north of the Arctic Circle! There was no fanfare aboard the ship as it was in the middle of the night after the first of three days of transit, but I did a little mental celebration because I've now crossed all three circles on a boat! Equator in December 2009, Antarctic Circle for the first time in January 2014, and now the Arctic Circle in September 2018. I had my own silent ceremony on the starboard side of the 02 deck in which I tossed some chocolate into the waves as an offering to King Neptune. Thanks for keeping me safe all these years.

@@ -15,7 +15,7 @@ permalink: "/research/"
 
 
 
-<!-- {% for post in site.categories.research limit:15 offset:3 %}
+{% for post in site.categories.research %}
 <hr />
 <div class="row">
   <div class="span2">
@@ -31,4 +31,4 @@ permalink: "/research/"
 	</p>
   </div>
 </div>
-{% endfor %} -->
+{% endfor %}

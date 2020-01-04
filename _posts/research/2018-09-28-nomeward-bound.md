@@ -8,6 +8,7 @@ tags:
     - post format
 categories:
     - research
+thumbnail: /images/blog_thumbnails/2018_09_28_SODA_tn.jpg
 ---
 
 That's a wrap! Yesterday at 11:00 am we pulled our microstructure profiler back on deck for the last time. We hauled our chain of temperature and salinity sensors that hung from the bow back in and uploaded the data from their final deployment. All in all, it was an incredibly successful cruise. A month's worth of measurements have been made and now we begin our transit back to Nome.

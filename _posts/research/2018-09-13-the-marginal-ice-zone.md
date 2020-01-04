@@ -7,9 +7,10 @@ breadcrumb: true
 tags:
     - post format
 image:
-  thumb: 
+  thumb:
 categories:
     - research
+thumbnail: /images/blog_thumbnails/2018_09_13_ship_survey_tn.jpg
 ---
 
 After we wrapped up our shelf break surveys on Tuesday afternoon, the Sikuliaq mates cranked up the ship speed to 10 kts and made a beeline east toward the pack of sea ice we've been seeing in satellite images. These images, which we've been getting about once per day, allowed us to make a very general plan of where to go. They provide some information about where ice is lingering and where there might be warmer plumes of surface water, but they can't tell us anything about what's going on beneath the surface. We devised a three-step plan to find and target the subsurface mixing processes that we're out here to study.

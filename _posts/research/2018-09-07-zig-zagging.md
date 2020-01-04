@@ -8,6 +8,7 @@ tags:
     - post format
 categories:
     - research
+thumbnail: /images/blog_thumbnails/2018_09_07_zig_zags_3d_tn.jpg
 ---
 
 Science is in full swing!

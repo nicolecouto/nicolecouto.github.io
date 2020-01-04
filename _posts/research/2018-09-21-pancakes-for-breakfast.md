@@ -8,6 +8,7 @@ tags:
     - post format
 categories:
     - research
+thumbnail: /images/blog_thumbnails/2018_09_21_swift_pancakes_tn.jpg
 ---
 
 <img src="/assets/img/2018_09_21_satellite.png" width="900">
