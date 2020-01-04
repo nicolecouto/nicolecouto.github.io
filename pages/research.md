@@ -26,7 +26,7 @@ permalink: "/research/"
 	{% endif %}
   </div>
   <div class="small-9 columns">
-  <p><a href="{{ post.url }}"><h3>{{ post.title }}</h3></a></p>
+  <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
   <p>{{ post.subheadline }}</p>
 	<p>{{ post.content | strip_html | truncatewords: 40 }}
 	</p>
