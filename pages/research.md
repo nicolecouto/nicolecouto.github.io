@@ -7,15 +7,15 @@ header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/research/"
 ---
-<!-- <ul>
+<ul>
     {% for post in site.categories.research %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-</ul> -->
+</ul>
 
 
 
-{% for post in site.categories.research limit:15 offset:3 %}
+<!-- {% for post in site.categories.research limit:15 offset:3 %}
 <hr />
 <div class="row">
   <div class="span2">
@@ -31,4 +31,4 @@ permalink: "/research/"
 	</p>
   </div>
 </div>
-{% endfor %}
+{% endfor %} -->
