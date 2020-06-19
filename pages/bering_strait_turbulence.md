@@ -27,12 +27,12 @@ header:
 
 <!-- DESCRIPTION AND BRUISER PHOTO -->
 <div class="row">
-  <div class="large-4 columns">
+  <div class="large-6 columns">
       <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/fig3.jpg?raw=true">
       Fig. 3. Hydrographic data collected during the cruise (24–25 Sep 2015).
 
   </div>
-  <div class="large-6 columns">
+  <div class="large-4 columns">
       <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/fig6.jpg?raw=true">
 Fig. 6. Section plots of (a) wind and bottom stress, (b) TKE dissipation rate, (c) diapycnal diffusivity, (d) squared buoyancy frequency, (e) squared vertical shear, and (f) inverse Richardson number. Contours of potential density difference are shown at 0.2 kg m−3 intervals between 24.8 and 26.2 kg m−3.
 
