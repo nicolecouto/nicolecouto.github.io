@@ -25,6 +25,9 @@ header:
 
 <h3> </h3>
 
+<br> <br/>
+
+
 <!-- DESCRIPTION AND BRUISER PHOTO -->
 <div class="row">
   <div class="large-6 columns">
