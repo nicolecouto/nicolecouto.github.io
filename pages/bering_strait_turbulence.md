@@ -33,6 +33,9 @@ header:
 
 <div class="row">
   <div class="large-6 columns">    
+
+These first-reported turbulence measurements in Bering Strait show that dissipation rates here are high even during calm winds. High turbulence in the strait has important implications for the modification of water properties during transit from the Pacific Ocean to the Arctic Ocean.
+
   Whenever you have water flowing over the bottom of the ocean, there's friction at the interface between water and rock/sand/mud/whatever it's made of. That friction slows down the current and creates some turbulence near the bottom, which mixes up the water. We want to understand how much of that frictional drag exists for a couple reasons: 1) When water mixes it affects the energy, heat, and salt budgets of a given area of the ocean. Physical oceanographers like to keep tabs of where energy is going in and coming out. Energy comes in mostly from the sun and tides and it gets dissipated through mixing. 2) To get the global models right, we like to keep track of the major forces working on different parts of the ocean. In the Bering Strait, there's a pressure difference ($\rho g H \frac{\partial \eta}{\partial y}) that pushes water northward and winds ($\Tau_w$) that can push it either north or south. There's also friction at the bottom ($\Tau_b$) that slows the current down. There are some other forces too, but those are the big ones and if you get them right, you can model the flow through Bering Strait pretty well.
   </div>
   <div class="large-6 columns">
