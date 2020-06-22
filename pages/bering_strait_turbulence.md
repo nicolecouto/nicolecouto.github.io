@@ -66,7 +66,7 @@ header:
   </div>
 
   <div class="large-6 columns">
-  In September 2015, we collected th first-reported turbulence measurements in Bering Strait. They show that dissipation rates here are high even during calm winds. High turbulence in the strait has important implications for the modification of water properties during transit from the Pacific Ocean to the Arctic Ocean.
+  In September 2015, we collected the first-reported turbulence measurements in Bering Strait. They show that dissipation rates here are high even during calm winds. High turbulence in the strait has important implications for the modification of water properties during transit from the Pacific Ocean to the Arctic Ocean.
 
   <h2></h2>
 
