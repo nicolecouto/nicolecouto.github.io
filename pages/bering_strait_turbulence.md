@@ -30,8 +30,28 @@ header:
 <br> <br/>
 
 
-      <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/fig3.jpg?raw=true">
+<!-- SECTION FIGURES -->
+<div class="row">
+
+
+  <div class="large-2 columns">
+<h3></h3>
+  </div>
+
+  <div class="large-8 columns">    
+      <a><img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/fig3.jpg?raw=true"></a>
       Fig. 3. Hydrographic data collected during the cruise (24–25 Sep 2015).
+  </div>
+
+
+  <div class="large-2 columns">
+  <h3></h3>   
+  </div>
+
+</div>
+
+
+
 
 
 
@@ -41,11 +61,16 @@ header:
 <div class="row">
 
   <div class="large-6 columns">    
-     <a>       <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/fig6.jpg?raw=true""> </a> Fig. 6. Section plots of (a) wind and bottom stress, (b) TKE dissipation rate, (c) diapycnal diffusivity, (d) squared buoyancy frequency, (e) squared vertical shear, and (f) inverse Richardson number. Contours of potential density difference are shown at 0.2 kg m−3 intervals between 24.8 and 26.2 kg m−3.
+     <a>       <img src="https://github.com/nicolecouto/nicolecouto.github.io/blob/master/images/fig6.jpg?raw=true" width="400"> </a>
+
   </div>
 
   <div class="large-6 columns">
   In September 2015, we collected th first-reported turbulence measurements in Bering Strait. They show that dissipation rates here are high even during calm winds. High turbulence in the strait has important implications for the modification of water properties during transit from the Pacific Ocean to the Arctic Ocean.
+
+  <h2></h2>
+
+<< Fig. 6. Section plots of (a) wind and bottom stress, (b) TKE dissipation rate, (c) diapycnal diffusivity, (d) squared buoyancy frequency, (e) squared vertical shear, and (f) inverse Richardson number. Contours of potential density difference are shown at 0.2 kg m−3 intervals between 24.8 and 26.2 kg m−3.
   </div>
 
 </div>
